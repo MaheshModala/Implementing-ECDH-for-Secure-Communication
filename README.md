@@ -73,6 +73,7 @@ Satya's Signature:
 Signature: n/4yQ8HjecDn2fN4tHo4txBRXkWjY3RNKXpKw7bhfe9GsNBEr3WS/9v11c4IiHNlXphHCTrkBVO5NXk+aZehZRw1uwebGQlRaH4P9wyf9kS2wlu0FrPEK05SRfJXSPY/0pdzvLLTvgNqLtlpS81q68L36QkpboB9B2KWgp/SkY0oxop2nIZw3MS4Li29nCIRmZapMQ8ODZhLRFh/9wXpJOg3TTpZOgdJ0GnKQUMAedpnii04XKzjNfLAj96zNUOXkx76/4y1lF3gLZJkW5etgB3LXvqJNHSrzIw6YfWWtyDJrN3I73qrcIUZFX+mulB8oWb3HmMRCNgP9BFONavmIQ==
 
 Signature Verification: SUCCESSFUL
+
 Signature Verification: SUCCESSFUL
 
 Mahesh's Shared Secret:
@@ -106,3 +107,45 @@ Mahesh's Message Decryption:
 Encrypted Message: CbTt/xb5KoIzN2Yw0ByiYFMBjRqjZmtbZrtj5iW2lpKsyWFTaG2hyIW/OkiGtQTOFtuhJjzGs6zr7FMAKGWlObcGpiiEEAz7XtiCYw==
 
 Decrypted Message: Sure, Mahesh! I'll see you there. Don't be late!
+
+
+
+## Brief of time spent on this and struggles, efforts:
+It took me approximately one week of concentrated effort to develop a fully functional HTTPS Encryption mechanism.
+
+Key Challenges Addressed:
+- Implementing Elliptic Curve Diffie-Hellman (ECDH) key exchange
+- Creating RSA digital signatures for key authentication
+- Developing secure message encryption using AES-GCM
+
+## Technical Insights
+- Learned the criticality of using initialization vectors in encryption
+- Understood the importance of signature verification in preventing man-in-the-middle attacks
+- Gained deep insights into the mathematical foundations of cryptographic key exchange
+- Recognized the delicate balance between security complexity and usability
+
+## Challenges Overcome
+- Implementing secure key generation
+- Managing cryptographic key exchanges
+- Ensuring robust signature verification
+- Creating a user-friendly encryption/decryption process
+- Handling potential error scenarios in cryptographic operations
+
+## Personal Growth
+Initially struggled with understanding the intricacies of cryptographic protocols. Breakthrough came from iterative development and deep diving into cryptography fundamentals. The project transformed theoretical knowledge into practical implementation.
+
+## Future Improvements
+- Implement more robust error handling
+- Add support for multiple communication participants
+- Enhance key management mechanisms
+- Implement additional security layers
+- Create a more scalable communication protocol
+
+## Final Thoughts
+Proud of creating a functional secure communication system that demonstrates core cryptographic principles. The project was challenging but immensely rewarding, providing hands-on experience with advanced security concepts.
+
+**Recommendation for Advanced Security:**
+For nation-state level security, consider:
+- Using AES-256 instead of AES-128
+- Implementing CTR mode for enhanced security
+- Adding additional key rotation mechanisms
