@@ -113,39 +113,18 @@ Decrypted Message: Sure, Mahesh! I'll see you there. Don't be late!
 ## Brief of time spent on this and struggles, efforts:
 It took me approximately one week of concentrated effort to develop a fully functional HTTPS Encryption mechanism.
 
-Key Challenges Addressed:
+Key Challenges i faced during implementation:
 - Implementing Elliptic Curve Diffie-Hellman (ECDH) key exchange
 - Creating RSA digital signatures for key authentication
 - Developing secure message encryption using AES-GCM
 
-## Technical Insights
+Technical learnings
 - Learned the criticality of using initialization vectors in encryption
-- Understood the importance of signature verification in preventing man-in-the-middle attacks
+- Understood the importance of signature verification in preventing MITM attacks
 - Gained deep insights into the mathematical foundations of cryptographic key exchange
-- Recognized the delicate balance between security complexity and usability
 
-## Challenges Overcome
-- Implementing secure key generation
-- Managing cryptographic key exchanges
-- Ensuring robust signature verification
-- Creating a user-friendly encryption/decryption process
-- Handling potential error scenarios in cryptographic operations
-
-## Personal Growth
+Personal Growth
 Initially struggled with understanding the intricacies of cryptographic protocols. Breakthrough came from iterative development and deep diving into cryptography fundamentals. The project transformed theoretical knowledge into practical implementation.
 
-## Future Improvements
-- Implement more robust error handling
-- Add support for multiple communication participants
-- Enhance key management mechanisms
-- Implement additional security layers
-- Create a more scalable communication protocol
-
-## Final Thoughts
-Proud of creating a functional secure communication system that demonstrates core cryptographic principles. The project was challenging but immensely rewarding, providing hands-on experience with advanced security concepts.
-
-**Recommendation for Advanced Security:**
-For nation-state level security, consider:
-- Using AES-256 instead of AES-128
-- Implementing CTR mode for enhanced security
-- Adding additional key rotation mechanisms
+My Final Thoughts:
+I am Proud of creating a functional secure communication system that demonstrates core cryptographic principles. The project was challenging but immensely rewarding, providing hands-on experience with advanced security concepts.
