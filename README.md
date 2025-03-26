@@ -55,10 +55,13 @@ To run:
 **python secure_communication.py**
 
 Expected Output:
+
 Mahesh's Key Generation:
+
 ECDH Public Key Fingerprint: MFkwEwYHKo
 
 Satya's Key Generation:
+
 ECDH Public Key Fingerprint: MFkwEwYHKo
 
 Mahesh's Signature:
