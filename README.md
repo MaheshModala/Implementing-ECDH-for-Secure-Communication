@@ -123,8 +123,10 @@ Technical learnings
 - Understood the importance of signature verification in preventing MITM attacks
 - Gained deep insights into the mathematical foundations of cryptographic key exchange
 
-Personal Growth
+Personal Growth:
+
 Initially struggled with understanding the intricacies of cryptographic protocols. Breakthrough came from iterative development and deep diving into cryptography fundamentals. The project transformed theoretical knowledge into practical implementation.
 
 My Final Thoughts:
+
 I am Proud of creating a functional secure communication system that demonstrates core cryptographic principles. The project was challenging but immensely rewarding, providing hands-on experience with advanced security concepts.
