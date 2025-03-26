@@ -50,7 +50,6 @@ Below is the Process of how to implement this and an expected output from the co
 
 To run:
 **pip install cryptography**
-
 **python secure_communication.py**
 
 Expected Output:
