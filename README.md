@@ -47,6 +47,7 @@ Mahesh: "Hey Satya, let's meet at the library."
 - Satya decrypts with the same shared secret
 
 Below is the Process of how to implement this and an expected output from the code:
+
 To run:
 **pip install cryptography
 python secure_communication.py**
