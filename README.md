@@ -49,7 +49,9 @@ Mahesh: "Hey Satya, let's meet at the library."
 Below is the Process of how to implement this and an expected output from the code:
 
 To run:
+
 **pip install cryptography**
+
 **python secure_communication.py**
 
 Expected Output:
